@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Course Project
 
 ## Contents ##
-This repo contains a script, a codebook for the script, and a text file created as a product of the script.
+This repo contains the raw data, a script, a codebook for the script, and a text file created as a product of the script.
 
 ## Context ##
 This project was done as part of the **Getting and Cleaning Data** course, the third in the *Johns Hopkins Data Science Specialization* on Coursera.
